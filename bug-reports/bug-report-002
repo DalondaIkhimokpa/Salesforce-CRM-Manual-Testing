@@ -1,0 +1,12 @@
+## Bug ID: BUG-CERT-002
+Title: No reminder for certification expiring in 120 days
+Related Test Case: TC-CERT-002
+## Steps to Reproduce:
+  1. Proxy as FT user
+  2. Set cert to expire in 120 days
+  3. Check notifications
+## Expected: Certification alert should appear
+Actual: No alert is shown in notification or inbox
+Severity: Medium
+Status: Open
+Environment: Simulated Workday, Desktop

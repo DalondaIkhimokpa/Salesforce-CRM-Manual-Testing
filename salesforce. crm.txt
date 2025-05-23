@@ -1,0 +1,17 @@
+🔗 Trailhead Modules for Screenshot Source:
+Customizing Fields on Standard and Custom Objects
+
+Use this to show picklist field editing or layout configuration.
+
+Create and Customize a Salesforce Object
+
+Use this to take screenshots for layout or field-level changes.
+
+Automate Business Processes with Flow
+
+Use this to simulate automation flows like certification reminders.
+
+Activity Management in Salesforce
+
+Useful for showing tasks/notes behavior like inserting recruitment strategy notes.
+

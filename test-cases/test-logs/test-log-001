@@ -1,0 +1,12 @@
+## Test Case ID: TC-CRM-001
+Title: Verify that Recruitment Strategy Template content is correctly inserted
+Related Ticket: CRM-2437
+Preconditions: User must be logged in as RCM Recruitment user
+## Steps:
+  1. Navigate to ActivityMobile
+  2. Click into the 'Recruitment Strategy' field
+  3. Select a template from the template list
+  4. Click on 'Insert Template'
+## Expected Result:
+  - The text box should populate with the template data
+  - Previous data should not be overwritten if present

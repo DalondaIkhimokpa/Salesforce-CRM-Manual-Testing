@@ -1,0 +1,12 @@
+## Bug ID: BUG-CRM-001
+Title: Template content not inserted into Recruitment Strategy field
+Related Test Case: TC-CRM-001
+## Steps to Reproduce:
+  1. Login as RCM user
+  2. Navigate to ActivityMobile and open 'Recruitment Strategy' field
+  3. Select template and click insert
+## Expected: Field should populate with template content
+Actual: Field remains empty after clicking insert
+Severity: High
+Status: Open
+Environment: Simulated Salesforce (Trailhead), Desktop

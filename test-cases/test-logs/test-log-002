@@ -1,0 +1,11 @@
+## Test Case ID: TC-CERT-002
+Title: Verify certification reminders between 7–180 days before expiration
+Related Ticket: UAC-2
+Preconditions: Proxy as FT or PT worker; cert expiry exists in Workday
+## Steps:
+  1. Proxy login as worker in Workday
+  2. Check notification section
+  3. Validate if reminder alert appears between 7–180 days
+## Expected Result:
+  - Reminder alert is visible in notifications
+  - Alert links to certification details or action page
