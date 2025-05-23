@@ -33,3 +33,4 @@ The tasks are derived from:
 | CRM-2435 | Modify RFC Workflow for Ignite candidates |
 
 > 📸 Screenshot: `CRM_Sprint_Planning.jpeg`
+[screenshot](/assets/screenshots/)
