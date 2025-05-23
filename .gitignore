@@ -1,3 +1,0 @@
-salesforce.crm.txt    # Matches this exact file
-*.txt                 # Ignores ALL .txt files
-git rm --cached "salesforce. crm.txt"          
